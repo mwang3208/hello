@@ -1,15 +1,12 @@
-/**
- * Author: Walker Lee
- * Email: wlee9@huskers.unl.edu
- * Date: Aug 25, 2022
- * Description:
- * Outputs me and my partner's name and major
- */
 #include <stdlib.h>
 #include <stdio.h>
 
-int main(int argc, char **argv){
+int main(int argc, char **argv) {
 
-  printf("Walker Lee");
+  printf("Matthew!\n");
+  printf("Computer Science\n");
 
+  printf("Walker\n");
+  printf("Computer Science (again)\n");
+  return 0;
 }

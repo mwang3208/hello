@@ -3,7 +3,10 @@
 
 int main(int argc, char **argv) {
 
-  printf("Walker and Matthew!\n");
+  printf("Matthew!\n");
   printf("Computer Science\n");
+
+  printf("Walker\n");
+  printf("Computer Science (again)\n");
   return 0;
 }
